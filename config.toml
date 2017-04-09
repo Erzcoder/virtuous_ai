@@ -1,7 +1,6 @@
 languageCode = "en-us"
 title = "General Intelligence"
 baseURL = "erzcoder.github.io"
-pygmentsuseclasses = true
 newContentEditor = "gedit"
 theme = "beautifulhugo"
 pygmentsStyle = "native"
